@@ -7,7 +7,7 @@ Automatically Goes to the Input field by using useRef as soon as the useEffect's
 ## Demo / Preview
 
 <!-- Add a screenshot, video, or link to live demo -->
-[Demo Screenshot](./image.png)  
+![Demo Screenshot](./image.png)  
 
 ---
 
